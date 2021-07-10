@@ -1,5 +1,5 @@
 
-catdateweight<-read.table(file="C:/Users/ehunsing/Desktop/catdateweight.csv",header=FALSE,sep=",")
+catdateweight<-read.table(file="https://raw.githubusercontent.com/edyhsgr/catdateweight/main/catweightdateReview.R",header=FALSE,sep=",")
 names(catdateweight)<-c("date","weight")
 catdateweight<-data.frame(catdateweight)
 plot(catdateweight$weight)
