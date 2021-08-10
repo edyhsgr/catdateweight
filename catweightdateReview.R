@@ -8,3 +8,4 @@ plot(catdateweight$weight,main="cat weight by date",xlab="date (starting 2021062
 dailyweightchange<-catdateweight[2:nrow(catdateweight),2]-catdateweight[1:nrow(catdateweight)-1,2]
 median(dailyweightchange,na.rm=TRUE)
 mean(dailyweightchange,na.rm=TRUE)
+
