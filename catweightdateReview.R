@@ -13,9 +13,9 @@ median(dailyweightchange,na.rm=TRUE)
 max(dailyweightchange,na.rm=TRUE)
 min(dailyweightchange,na.rm=TRUE)
 
-##Last 30 days summary
-mean(tail(dailyweightchange,30),na.rm=TRUE)
-median(tail(dailyweightchange),na.rm=TRUE)
-max(tail(dailyweightchange),na.rm=TRUE)
-min(tail(dailyweightchange),na.rm=TRUE)
+##Last 20 points summary
+mean(tail(dailyweightchange,20),na.rm=TRUE)
+median(tail(dailyweightchange,20),na.rm=TRUE)
+max(tail(dailyweightchange,20),na.rm=TRUE)
+min(tail(dailyweightchange,20),na.rm=TRUE)
 
