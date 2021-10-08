@@ -6,16 +6,8 @@ plot(catdateweight$weight,main="cat weight by date",xlab="date (starting 2021062
   axis(side=2,cex.axis=0.75)
   axis(side=1,at=1:length(catdateweight$date),labels=substr(catdateweight$date,nchar(catdateweight$date)-4+1,nchar(catdateweight$date)),cex.axis=0.75,las=2)
 dailyweightchange<-catdateweight[2:nrow(catdateweight),2]-catdateweight[1:nrow(catdateweight)-1,2]
-
-##Summary
-mean(dailyweightchange,na.rm=TRUE)
-median(dailyweightchange,na.rm=TRUE)
-max(dailyweightchange,na.rm=TRUE)
-min(dailyweightchange,na.rm=TRUE)
-
-##Last 20 points summary
-mean(tail(dailyweightchange,20),na.rm=TRUE)
-median(tail(dailyweightchange,20),na.rm=TRUE)
-max(tail(dailyweightchange,20),na.rm=TRUE)
-min(tail(dailyweightchange,20),na.rm=TRUE)
+mean(dailyweightchange,na.rm=TRUE)                                        
+quantile(dailyweightchange,c(0,.05,.25,.5,.75,.95,1),na.rm=TRUE)        
+mean(tail(dailyweightchange,30),na.rm=TRUE)                               #(Last 30 days)
+quantile(tail(dailyweightchange,30),c(0,.05,.25,.5,.75,.95,1),na.rm=TRUE) #(Last 30 days)
 
