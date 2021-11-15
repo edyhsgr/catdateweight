@@ -1,6 +1,6 @@
 
 catdateweight<-data.frame(read.table(file="https://raw.githubusercontent.com/edyhsgr/catdateweight/main/catdateweight.csv",header=FALSE,sep=","))
-	names(catdateweight)<-c("date","weight")
+	names(catdateweight)<-c("date","weight","note")
 catdateweight_interp<-approx(catdateweight$weight,n=length(catdateweight$weight))	#Only for gridlines on missing data
 	names(catdateweight_interp)<-c("date","weight")
 plot(catdateweight$weight,
