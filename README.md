@@ -12,7 +12,7 @@ Notes and things guessed, thought, learned about (by date):
 
 - It seems it's to a point I could fit something to it for prediction pretty well, but am not totally sure (eg if kittens might have another period of some linear growth).
 
-- In November he had to wear the cone-collar for a few days, and so I had to adjust for it – even though the differences are so small relative to his overall size, 15g collar vs 33g collar, we were able to spot a clear break in the series after just two or three days and that I was making the wrong adjustment (was an easy fix, thankfully). 
+- I thought neat/remarkable: In November he had to wear the cone-collar for a few days, and so I had to adjust for it – even though the differences are so small relative to his overall size, 15g collar vs 33g collar on a ~3.5kg cat, we were able to see a clear break in the series after just two or three days and that I was making the wrong adjustment (was an easy fix, thankfully). 
 
 202106
 - Anticipated (pre-measurement) weight change for several weeks is gain of approximately one ounce (28.35grams) per day.
