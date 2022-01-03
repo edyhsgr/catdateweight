@@ -13,4 +13,4 @@ Notes and things guessed/thought/learned (by date):
 
 - It seems it's to a point I could fit something to it pretty well, but am not totally sure (eg if kittens might have another period of some linear growth).
 
-- In November he had to wear the cone-collar for a few days, and so I had to adjust for it – even though the differences are so small relative to his overall size, 15g collar vs 33g collar, we were able to spot a clear break in the series after just two or three days and that I was making the wrong adjustment (was an easy fix, thankfully), 
+- In November he had to wear the cone-collar for a few days, and so I had to adjust for it – even though the differences are so small relative to his overall size, 15g collar vs 33g collar, we were able to spot a clear break in the series after just two or three days and that I was making the wrong adjustment (was an easy fix, thankfully). 
