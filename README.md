@@ -3,7 +3,7 @@
 Data and review for one kitten/cat's weight over time (days), just for fun. Age at initial measurement on 20210623 was between four and six weeks old (five weeks is best estimate). 
 
 # 
-Notes and things guessed/thought/learned (by date):
+Notes and things guessed, thought, learned about (by date):
 
 20220103
 - I've noticed over the months that just the last point or two of data can change my perception of the future trajectory a lot.
