@@ -5,6 +5,9 @@ Data and review for one kitten/cat's weight over time (days), just for fun. Age 
 # 
 Notes and things guessed, thought, learned about (by date):
 
+20220108
+- Am realizing that with more variation in change (as he's gotten bigger, and looking forward), specification of when he's completed ~kitten growth could become (maybe very) imprecise.
+
 20220103
 - I've noticed over the months that just the last point or two of data can change my perception of the future trajectory a lot.
 
