@@ -5,6 +5,9 @@ Data and review for one kitten/cat's weight over time (days), just for fun. Age 
 # 
 Notes and things guessed, thought, learned about (by date):
 
+20220121
+- To try to keep variation in change by day down some (for better or worse), have been more mindful the past few weeks to weight him after he eats dinner. 
+
 20220108
 - Am realizing that with more variation in change (as he's gotten bigger, and looking forward), specification of when he's completed ~kitten growth could become (maybe very) imprecise.
 
