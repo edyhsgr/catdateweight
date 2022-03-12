@@ -38,7 +38,7 @@ quantile(tail(catdateweight$change,100),c(0,.05,.25,.5,.75,.95,1),na.rm=TRUE) 		
 Sys.sleep(5)
 
 plot(catdateweight$pctchange,
-     panel.first=abline(h=seq(-.1,.1,.05),v=seq(1,10000,10),col="grey"),
+     panel.first=abline(h=seq(-.1,.1,.01),v=seq(1,10000,10),col="grey"),
      main="cat weight change by date",
 		xlab="date (starting 20210623, at age four-to-six weeks)",
 		ylab="daily weight change (percent)",ylim=c(-.1,.1),axes=FALSE)
