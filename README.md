@@ -5,6 +5,9 @@ Data and review for one kitten/cat's weight over time (days), just for fun. Age 
 # 
 Notes and things guessed, thought, learned about (by date):
 
+20220428
+- A couple weeks ago I was thinking about how abruptly the daily change flattened, imagining a switch turning off. Now the past several days some substantial increase again.  
+
 20220121
 - To try to keep variation in change by day down some (for better or worse), have been more mindful the past few weeks to weight him after he eats dinner. 
 
