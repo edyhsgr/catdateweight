@@ -6,7 +6,7 @@ Data and review for one kitten/cat's weight over time (days), just for fun. Age 
 Notes and things guessed, thought, learned about (by date):
 
 20220505
-- Switching to weighing him in the morning (rather than evening) starting today. 
+- Switching to weighing him in the morning (rather than evening) starting today. I regret I haven't been measuring/recording more frequently in recent weeks - including that the new twist is interesting, and it would be neat to have better info on the daily-variation. 
 
 20220428
 - A couple weeks ago I was thinking about how abruptly the daily change flattened, imagining a switch turning off. Now the past several days some substantial increase again.  
