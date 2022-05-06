@@ -6,7 +6,7 @@ Data and review for one kitten/cat's weight over time (days), just for fun. Age 
 Notes and things guessed, thought, learned about (by date):
 
 20220505
-- Switching to weighing him in the morning (rather than evening) starting today. I regret I haven't been measuring/recording more frequently in recent weeks - including that the new twist is interesting, and it would be neat to have better info on the daily-variation. 
+- Switching to weighing him in the morning (rather than evening) after eating starting today. I regret I haven't been measuring/recording more frequently in recent weeks - including that the new twist is interesting, and it would be neat to have better info on the daily-variation. 
 
 - Had to adjust recently for duct-tape that was added to reinforce the box he's typically weighed in, which made me think of Nathan Keyfitz' "Counting the Ration Cards" (http://www.keyfitz.org/nathan/memoir/04.html). None of the recorded data was affected though.
 
