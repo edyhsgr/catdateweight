@@ -32,8 +32,8 @@ plot(catdateweight$change,
 
 mean(catdateweight$change,na.rm=TRUE)                                        
 quantile(catdateweight$change,c(0,.05,.25,.5,.75,.95,1),na.rm=TRUE)        
-mean(tail(catdateweight$change,100),na.rm=TRUE)                               		#Last 100 days
-quantile(tail(catdateweight$change,100),c(0,.05,.25,.5,.75,.95,1),na.rm=TRUE) 		#Last 100 days
+#mean(tail(catdateweight$change,100),na.rm=TRUE)                               		#Last 100 days
+#quantile(tail(catdateweight$change,100),c(0,.05,.25,.5,.75,.95,1),na.rm=TRUE) 		#Last 100 days
 
 Sys.sleep(5)
 
@@ -49,6 +49,6 @@ plot(catdateweight$pctchange,
 
 mean(catdateweight$pctchange,na.rm=TRUE)                                        
 quantile(catdateweight$pctchange,c(0,.05,.25,.5,.75,.95,1),na.rm=TRUE)        
-mean(tail(catdateweight$pctchange,100),na.rm=TRUE)                               		#Last 100 days
-quantile(tail(catdateweight$pctchange,100),c(0,.05,.25,.5,.75,.95,1),na.rm=TRUE) 	#Last 100 days
+#mean(tail(catdateweight$pctchange,100),na.rm=TRUE)                               		#Last 100 days
+#quantile(tail(catdateweight$pctchange,100),c(0,.05,.25,.5,.75,.95,1),na.rm=TRUE) 	#Last 100 days
 
