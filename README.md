@@ -5,6 +5,9 @@ Data and review for one kitten/cat's weight over time (days), just for fun. Age 
 # 
 Notes and things guessed, thought, learned about (by date):
 
+20230330
+- He's been sleeping in the box that's easy to put on the scale again lately so can record more. Has increased for sure though I wouldn't know it from just looking at him. 
+
 20220727
 - Weighing him less frequently since 20220623, and also at different|more-variable times of day.
 
