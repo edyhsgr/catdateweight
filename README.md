@@ -5,6 +5,9 @@ Data and review for one kitten/cat's weight over time (days), just for fun. Age 
 # 
 Notes and things guessed, thought, learned about (by date):
 
+20230512
+- Random but remarkable, this cat has had three weigh-ins, weeks apart from one another, within one gram of one another. 
+
 20230330
 - He's been sleeping in the box that's easy to put on the scale again lately so can record more. Has increased for sure though I wouldn't know it from just looking at him. 
 
