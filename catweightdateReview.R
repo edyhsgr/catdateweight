@@ -41,7 +41,7 @@ plot(catdateweight$pctchange,
      panel.first=abline(h=seq(-10,10,1),v=seq(1,10000,10),col="grey"),
      main="cat weight change by date",
 		xlab="date (starting 20210623, at age four-to-six weeks)",
-		ylab="daily weight change (percent)",ylim=c(-10,10),axes=FALSE)
+		ylab="daily weight change as percent of weight",ylim=c(-10,10),axes=FALSE)
 	axis(side=2,cex.axis=0.75)
 	axis(side=1,at=1:length(catdateweight$date),
 		labels=substr(catdateweight$date,nchar(catdateweight$date)-4+1,
